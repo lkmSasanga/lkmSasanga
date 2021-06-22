@@ -1,6 +1,10 @@
-<p align="left"> 
+<p align="right"> 
 <img src="https://komarev.com/ghpvc/?username=lkmSasanga&color=brightgreen" alt="watching_count" />
 </p>
+
+
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Malindu Sasanga </h1>
 <h3 align="center">Software Developer | Technical Writer </h3>
 <!-- <p align="center"> -->
@@ -12,24 +16,30 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/malindu-sasanga/">
-        <img align="left" alt="Malindu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    </a>
-    <a href="https://twitter.com/lkms06495775">
-        <img align="left" alt="Malindu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
-    <a href="https://www.facebook.com/malindu.sasanga.1/">
-        <img align="left" alt="Malindu | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-    </a>
+<a href="https://www.linkedin.com/in/malindu-sasanga/">
+    <img alt="Malindu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>&nbsp;
+<a href="https://malindusasanga.medium.com/?source=your_stories_page-------------------------------------">
+    <img alt="Malindu | Medium" width="22px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0yNCAyNGgtMjR2LTI0aDI0djI0em0tNC4wMy01LjY0OXYtLjI2OWwtMS4yNDctMS4yMjRjLS4xMS0uMDg0LS4xNjUtLjIyMi0uMTQyLS4zNTl2LTguOTk4Yy0uMDIzLS4xMzcuMDMyLS4yNzUuMTQyLS4zNTlsMS4yNzctMS4yMjR2LS4yNjloLTQuNDIybC0zLjE1MiA3Ljg2My0zLjU4Ni03Ljg2M2gtNC42Mzh2LjI2OWwxLjQ5NCAxLjc5OWMuMTQ2LjEzMy4yMjEuMzI3LjIwMS41MjN2Ny4wNzJjLjA0NC4yNTUtLjAzNy41MTYtLjIxNi43MDJsLTEuNjgxIDIuMDM4di4yNjloNC43NjZ2LS4yNjlsLTEuNjgxLTIuMDM4Yy0uMTgxLS4xODYtLjI2Ni0uNDQ1LS4yMzItLjcwMnYtNi4xMTZsNC4xODMgOS4xMjVoLjQ4NmwzLjU5My05LjEyNXY3LjI3M2MwIC4xOTQgMCAuMjMyLS4xMjcuMzU5bC0xLjI5MiAxLjI1NHYuMjY5aDYuMjc0eiIvPjwvc3ZnPg==" />
+</a>&nbsp;
+<a href="https://twitter.com/lkms06495775">
+    <img  alt="Malindu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>&nbsp;
+<a href="https://www.youtube.com/channel/UCFkAu0Sun5OIkwJ2G8Cxeiw">
+    <img  alt="Code me | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>&nbsp;
+<a href="https://www.facebook.com/malindu.sasanga.1/">
+    <img  alt="Malindu | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
 </p>
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=lkmSasanga) -->
+
 <br><br>
 
 <p align="center">
   <em>
     I am Malindu Sasanga a <b>final year</b> undergraduate from <a href="https://itum.mrt.ac.lk/"> <b>Institute of Technology University Of Moratuwa</b>, Sri-Lanka</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Tech Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Web Technologies</b> and always looking to learn new technologies which are updating.
+    with <b>Web Technologies</b> and always looking to learn new technologies.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "First, solve the problem. Then, write the code!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -90,7 +100,7 @@
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lkmSasanga&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lkmSasanga&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
 
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
