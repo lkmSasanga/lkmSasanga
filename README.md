@@ -22,9 +22,9 @@
 <a href="https://malindusasanga.medium.com/?source=your_stories_page-------------------------------------">
     <img alt="Malindu | Medium" width="22px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" />
 </a>&nbsp;
-<a href="https://twitter.com/lkms06495775">
+<!-- <a href="https://twitter.com/lkms06495775">
     <img  alt="Malindu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>&nbsp;
+</a>&nbsp; -->
 <a href="https://www.youtube.com/channel/UCFkAu0Sun5OIkwJ2G8Cxeiw">
     <img  alt="Code me | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>&nbsp;
