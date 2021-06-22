@@ -2,12 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=lkmSasanga&color=brightgreen" alt="watching_count" />
 </p>
 
-
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Malindu Sasanga </h1>
 <h3 align="center">Software Developer | Technical Writer </h3>
-<!-- <p align="center"> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-24-blue" />&nbsp;
@@ -33,7 +29,6 @@
 </a>
 </p>
 
-
 <p align="center">
   <em>
     I am Malindu Sasanga a <b>final year</b> undergraduate from <a href="https://itum.mrt.ac.lk/"> <b>Institute of Technology University Of Moratuwa</b>, Sri-Lanka</a>. <br>
@@ -43,20 +38,10 @@
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "First, solve the problem. Then, write the code!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<br><br>
+<br/>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** -->
-
-<!-- ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently working with **React, Next.js, Node.js, Strapi**<br> -->
-
-
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack*** --> 
-<!-- <!-- <p align="left">  -->
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Tech Stack**
-<!-- ### 🛠 &nbsp;Tech Stack -->
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
