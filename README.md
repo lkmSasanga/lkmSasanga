@@ -1,41 +1,29 @@
-
-
-
-<br />
-
-<hr>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=lkmSasanga&color=brightgreen" alt="watching_count" />
+</p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Malindu Sasanga </h1>
 <h3 align="center">Software Developer | Technical Writer </h3>
 <!-- <p align="center"> -->
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=lkmSasanga&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 
-<a href="https://www.linkedin.com/in/malindu-sasanga/">
-  <img align="left" alt="Malindu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/lkms06495775">
-  <img align="left" alt="Malindu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg />
-</a>
-<a href="https://www.facebook.com/malindu.sasanga.1/">
-  <img align="left" alt="Malindu | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=lkmSasanga)
-
-<!-- <a href="https://www.linkedin.com/in/malindu-sasanga/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.facebook.com/malindu.sasanga.1/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: lkmsasanga@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/malindu-sasanga/">
+        <img align="left" alt="Malindu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+    <a href="https://twitter.com/lkms06495775">
+        <img align="left" alt="Malindu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    </a>
+    <a href="https://www.facebook.com/malindu.sasanga.1/">
+        <img align="left" alt="Malindu | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+    </a>
 </p>
-</p> -->
-
-
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=lkmSasanga) -->
+<br><br>
 
 <p align="center">
   <em>
@@ -44,21 +32,22 @@
     with <b>Web Technologies</b> and always looking to learn new technologies which are updating.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "First, solve the problem. Then, write the code!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** -->
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently working with **React, Next.js, Node.js, Strapi**<br>
+<!-- ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently working with **React, Next.js, Node.js, Strapi**<br> -->
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack***
-<p align="left">
-  
-### 🛠 &nbsp;Tech Stack
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tech Stack*** --> 
+<!-- <!-- <p align="left">  -->
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Tech Stack**
+<!-- ### 🛠 &nbsp;Tech Stack -->
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -91,7 +80,8 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio)
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats**
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkmSasanga&show_icons=true&locale=en&layout=compact&theme=radical" alt="lkmSasanga" /></p>
 
