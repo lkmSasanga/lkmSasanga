@@ -20,7 +20,7 @@
     <img alt="Malindu's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>&nbsp;
 <a href="https://malindusasanga.medium.com/?source=your_stories_page-------------------------------------">
-    <img alt="Malindu | Medium" width="22px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0yNCAyNGgtMjR2LTI0aDI0djI0em0tNC4wMy01LjY0OXYtLjI2OWwtMS4yNDctMS4yMjRjLS4xMS0uMDg0LS4xNjUtLjIyMi0uMTQyLS4zNTl2LTguOTk4Yy0uMDIzLS4xMzcuMDMyLS4yNzUuMTQyLS4zNTlsMS4yNzctMS4yMjR2LS4yNjloLTQuNDIybC0zLjE1MiA3Ljg2My0zLjU4Ni03Ljg2M2gtNC42Mzh2LjI2OWwxLjQ5NCAxLjc5OWMuMTQ2LjEzMy4yMjEuMzI3LjIwMS41MjN2Ny4wNzJjLjA0NC4yNTUtLjAzNy41MTYtLjIxNi43MDJsLTEuNjgxIDIuMDM4di4yNjloNC43NjZ2LS4yNjlsLTEuNjgxLTIuMDM4Yy0uMTgxLS4xODYtLjI2Ni0uNDQ1LS4yMzItLjcwMnYtNi4xMTZsNC4xODMgOS4xMjVoLjQ4NmwzLjU5My05LjEyNXY3LjI3M2MwIC4xOTQgMCAuMjMyLS4xMjcuMzU5bC0xLjI5MiAxLjI1NHYuMjY5aDYuMjc0eiIvPjwvc3ZnPg==" />
+    <img alt="Malindu | Medium" width="22px" src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" />
 </a>&nbsp;
 <a href="https://twitter.com/lkms06495775">
     <img  alt="Malindu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -33,7 +33,6 @@
 </a>
 </p>
 
-<br><br>
 
 <p align="center">
   <em>
