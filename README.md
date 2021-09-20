@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Malindu Sasanga </h1>
-<h3 align="center">Software Developer | Technical Writer </h3>
+<h3 align="center">Fullstack Software Developer | Technical Writer | Youtube Content Creator</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-24-blue" />&nbsp;
@@ -33,14 +33,14 @@
   <em>
     I am Malindu Sasanga a <b>final year</b> undergraduate from <a href="https://itum.mrt.ac.lk/"> <b>Institute of Technology University Of Moratuwa</b>, Sri-Lanka</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Tech Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Web Technologies</b> and always looking to learn new technologies.
+    with <b>Web and Mobile Technologies</b> and always looking to learn new technologies.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "First, solve the problem. Then, write the code!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 </p>
 <p align="center">
-  <b>Personal Website: <a href="https://portfolio-brown-mu.vercel.app/">https://portfolio-brown-mu.vercel.app/</a></b>
+  <b>Portfolio: <a href="https://portfolio-brown-mu.vercel.app/">https://portfolio-brown-mu.vercel.app/</a></b>
 </p>
 
 <br/>
@@ -76,6 +76,7 @@
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
