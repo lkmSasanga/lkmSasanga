@@ -39,9 +39,9 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "First, solve the problem. Then, write the code!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
 </p>
-<p align="center">
+<!-- <p align="center">
   <b>Portfolio: <a href="https://portfolio-brown-mu.vercel.app/">https://portfolio-brown-mu.vercel.app/</a></b>
-</p>
+</p> -->
 
 <br/>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
