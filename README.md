@@ -29,7 +29,7 @@
 </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <em>
     I am Malindu Sasanga a <b>final year</b> undergraduate from <a href="https://itum.mrt.ac.lk/"> <b>Institute of Technology University Of Moratuwa</b>, Sri-Lanka</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Tech Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
@@ -38,12 +38,29 @@
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "First, solve the problem. Then, write the code!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
-</p>
+</p> -->
+
+<br/>
+
+- 🔭 I’m currently working at [Arimac Lanka](https://arimaclanka.com/)
+
+- 🌱 I’m currently doing my **Internship**
+
+- 👯 I’m also a **Freelancer**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-brown-mu.vercel.app/](https://portfolio-brown-mu.vercel.app/)
+
+- 📝 I regularly write articles on [https://malindusasanga.medium.com/](https://malindusasanga.medium.com/)
+
+- 📫 How to reach me **lkmsasanga@gmail.com**
+
+
+
 <!-- <p align="center">
   <b>Portfolio: <a href="https://portfolio-brown-mu.vercel.app/">https://portfolio-brown-mu.vercel.app/</a></b>
 </p> -->
 
-<br/>
+
 <!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Tech Stack**
