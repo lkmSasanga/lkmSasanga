@@ -89,8 +89,11 @@
 
 <!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkmSasanga&show_icons=true&locale=en&layout=compact&theme=radical" alt="lkmSasanga" /></p> -->
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkmSasanga&show_icons=true&locale=en" alt="lkmSasanga" /></p>
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkmSasanga&theme=radical" alt="lkmSasanga" /></p>
+ <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkmSasanga&theme=radical" alt="lkmSasanga" /></p> -->
+
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkmSasanga&" alt="lkmSasanga" /></p>
  
  <br />
  
