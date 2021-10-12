@@ -44,7 +44,7 @@
 </p> -->
 
 <br/>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Tech Stack**
 
@@ -94,7 +94,7 @@
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lkmSasanga&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lkmSasanga&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)   -->
 
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
