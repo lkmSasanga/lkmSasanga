@@ -99,10 +99,10 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
 <br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![WebStorm](https://img.shields.io/badge/-WebStorm-05122A?style=flat&logo=WebStorm)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android-Studio) -->
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**GitHub Stats**
