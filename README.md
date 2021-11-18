@@ -48,9 +48,9 @@
 
 - 👯 I’m also a **Freelancer**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-brown-mu.vercel.app/](https://portfolio-brown-mu.vercel.app/)
+- 👨‍💻 My portfolio is available at [https://portfolio-brown-mu.vercel.app/](https://portfolio-brown-mu.vercel.app/)
 
-- 📝 I regularly write articles on [https://malindusasanga.medium.com/](https://malindusasanga.medium.com/)
+- 📝 My articles on [https://malindusasanga.medium.com/](https://malindusasanga.medium.com/)
 
 - 📫 How to reach me **lkmsasanga@gmail.com**
 
@@ -83,6 +83,9 @@
 <br />
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=React-Native)&nbsp;
 <br />
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=6a0dad)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
@@ -119,4 +122,4 @@
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
 
-Last Edited on: 7/31/2021
+Last Edited on: 11/18/2021
