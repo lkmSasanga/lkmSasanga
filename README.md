@@ -48,7 +48,7 @@
 
 - 👯 I’m also a **Freelancer**
 
-- 👨‍💻 My portfolio is available at [https://portfolio-brown-mu.vercel.app/](https://portfolio-brown-mu.vercel.app/)
+- 👨‍💻 My portfolio is available at [https://lkmsasanga.me/](https://lkmsasanga.me/)
 
 - 📝 My articles on [https://malindusasanga.medium.com/](https://malindusasanga.medium.com/)
 
