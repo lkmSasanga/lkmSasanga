@@ -44,7 +44,7 @@
 
 - 🔭 I’m currently working at [Arimac Lanka](https://arimaclanka.com/)
 
-- 🌱 I’m currently doing my **Internship**
+<!-- - 🌱 I’m currently doing my **Internship** -->
 
 - 👯 I’m also a **Freelancer**
 
