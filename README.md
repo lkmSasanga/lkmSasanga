@@ -46,7 +46,7 @@
 
 <!-- - 🌱 I’m currently doing my **Internship** -->
 
-- 👯 I’m also a **Freelancer**
+<!-- - 👯 I’m also a **Freelancer** -->
 
 - 👨‍💻 My portfolio is available at [https://lkmsasanga.me/](https://lkmsasanga.me/)
 
