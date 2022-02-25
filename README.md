@@ -42,7 +42,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at [Arimac Lanka](https://arimaclanka.com/)
+- 🔭 I’m currently working at [Emojot Inc](https://emojot.com/)
 
 <!-- - 🌱 I’m currently doing my **Internship** -->
 
@@ -122,4 +122,4 @@
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
 
-Last Edited on: 11/18/2021
+Last Edited on: 02/25/2022
