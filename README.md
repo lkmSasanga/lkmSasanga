@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working at [Emojot Inc](https://emojot.com/)
 
-- 👨‍💻 My portfolio is available at [https://lkmsasanga.me](https://lkmsasanga.me/)
+- 👨‍💻 My portfolio is available at [lkmsasanga.me](https://lkmsasanga.me/)
 
 - 📝 My articles on [malindusasanga.medium.com](https://malindusasanga.medium.com/) and [www.rootcode.me](https://www.rootcode.me/)
 
