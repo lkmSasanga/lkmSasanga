@@ -24,9 +24,9 @@
 
 - 🔭 I’m currently working at [Emojot Inc](https://emojot.com/)
 
-- 👨‍💻 My portfolio is available at [https://lkmsasanga.me/](https://lkmsasanga.me/)
+- 👨‍💻 My portfolio is available at [https://lkmsasanga.me](https://lkmsasanga.me/)
 
-- 📝 My articles on [https://malindusasanga.medium.com/](https://malindusasanga.medium.com/)
+- 📝 My articles on [malindusasanga.medium.com](https://malindusasanga.medium.com/) and [www.rootcode.me](https://www.rootcode.me/)
 
 - 📫 How to reach me **lkmsasanga@gmail.com**
 
@@ -84,4 +84,4 @@
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
 
-Last Edited on: 06/02/2022
+Last Edited on: 09/12/2022
