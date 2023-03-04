@@ -22,7 +22,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at [Emojot Inc](https://emojot.com/)
+- 🔭 I’m currently working at [Refurbly AB](https://www.refurbly.se/)
 
 - 👨‍💻 My portfolio is available at [lkmsasanga.me](https://lkmsasanga.me/)
 
@@ -84,4 +84,4 @@
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
 
-Last Edited on: 09/12/2022
+Last Edited on: 04/03/2023
