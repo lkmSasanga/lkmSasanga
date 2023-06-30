@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I am Malindu Sasanga </h1>
-<h3 align="center">Fullstack SE | Technical Writer | Youtuber</h3>
+<h3 align="center">Full-Stack SE | Technical Writer | Youtuber</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/malindu-sasanga/">
