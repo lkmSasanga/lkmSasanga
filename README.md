@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I am Malindu Sasanga </h1>
-<h3 align="center">Fullstack Software Developer | Technical Writer | Youtube Content Creator</h3>
+<h3 align="center">Fullstack SE | Technical Writer | Youtuber</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/malindu-sasanga/">
@@ -26,7 +26,7 @@
 
 - 👨‍💻 My portfolio is available at [lkmsasanga.me](https://lkmsasanga.me/)
 
-- 📝 My articles on [malindusasanga.medium.com](https://malindusasanga.medium.com/) and [www.rootcode.me](https://www.rootcode.me/)
+- 📝 My articles on [malindusasanga.medium.com](https://malindusasanga.medium.com/)
 
 - 📫 How to reach me **lkmsasanga@gmail.com**
 
@@ -35,17 +35,8 @@
 
 ### **Tech Stack**
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<br />
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxt.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-<br />
+All JavaScript Frameworks
+
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
@@ -57,14 +48,12 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 ![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=React-Native)&nbsp;
 <br />
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku&logoColor=6a0dad)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=Supabase&logoColor=6a0dad)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
-<br />
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 <br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
@@ -84,4 +73,4 @@
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
 
-Last Edited on: 04/03/2023
+Last Edited on: 2023 June 30
