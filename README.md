@@ -61,11 +61,6 @@ All JavaScript Frameworks
 
 <!-- ## &#x1f4c8; GitHub Stats -->
 ### **GitHub Stats**
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkmSasanga&show_icons=true&locale=en" alt="lkmSasanga" /></p>
- 
-
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkmSasanga&" alt="lkmSasanga" /></p>
  
  <br />
@@ -73,4 +68,4 @@ All JavaScript Frameworks
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
 
-Last Edited on: 2023 June 30
+Last Edited on: 2023 July 20
