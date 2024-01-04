@@ -8,9 +8,9 @@
 <br/>
 
 
-- 🔭 I’m currently working at [Refurbly AB](https://www.refurbly.se/)
+<!-- - 🔭 I’m currently working at [Refurbly AB](https://www.refurbly.se/) -->
 
-- 👨‍💻 My portfolio is available at [lkmsasanga.me](https://lkmsasanga.me/)
+- 👨‍💻 My portfolio is available at [malindusasanga.me](https://malindusasanga.com/)
 
 - 📝 My articles on [malindusasanga.medium.com](https://malindusasanga.medium.com/)
 
