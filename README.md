@@ -5,8 +5,9 @@
 <h1 align="center">Hi, I am Malindu Sasanga </h1>
 <h3 align="center"> <a href="https://www.linkedin.com/in/malindu-sasanga/">Full-Stack SE</a> | <a href="https://malindusasanga.medium.com/">Technical Writer</a> | <a href="https://www.youtube.com/channel/UCFkAu0Sun5OIkwJ2G8Cxeiw">Youtuber</a></h3>
 
-<br/>
+<h4 align="center">🌟 I'm currently open to work. Excited to contribute to innovative projects! 🌟</h4>
 
+<br/>
 
 - 🔭 I’m currently working at [Hyperbyte](https://hyperbyte.tech/)
 
@@ -16,25 +17,21 @@
 
 - 📫 How to reach me **lkmsasanga@gmail.com**
 
-
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### **Tech Stack**
 
-All JavaScript Frameworks
-
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-05122A?style=flat&logo=Svelte)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=Supabase&logoColor=6a0dad)&nbsp;
+![Trigger.dev](https://img.shields.io/badge/-Trigger.dev-05122A?style=flat&logo=Trigger.dev)&nbsp;
+<br />
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=strapi)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 <br />
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=React-Native)&nbsp;
-<br />
-![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=Supabase&logoColor=6a0dad)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
@@ -45,8 +42,8 @@ All JavaScript Frameworks
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
 <br />
 
-<!-- ## &#x1f4c8; GitHub Stats -->
 ### **GitHub Stats**
+
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkmSasanga&" alt="lkmSasanga" /></p>
  
  <br />
