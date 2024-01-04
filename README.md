@@ -8,7 +8,7 @@
 <br/>
 
 
-<!-- - 🔭 I’m currently working at [Refurbly AB](https://www.refurbly.se/) -->
+- 🔭 I’m currently working at [Hyperbyte](https://hyperbyte.tech/)
 
 - 👨‍💻 My portfolio is available at [malindusasanga.me](https://malindusasanga.com/)
 
@@ -54,4 +54,4 @@ All JavaScript Frameworks
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
 
-Last Edited on: 2023 July 20
+Last Edited on: 2024 Jan 04
