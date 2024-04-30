@@ -9,7 +9,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at Hello Stash
+<!-- - 🔭 I’m currently working at Hello Stash -->
 
 - 👨‍💻 My portfolio is available at [malindusasanga.me](https://malindusasanga.com/)
 
