@@ -9,7 +9,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at [Hyperbyte](https://hyperbyte.tech/)
+- 🔭 I’m currently working at Hello Stash
 
 - 👨‍💻 My portfolio is available at [malindusasanga.me](https://malindusasanga.com/)
 
@@ -51,4 +51,4 @@
 -----
 Credits: [Malindu Sasanga](https://github.com/lkmSasanga)
 
-Last Edited on: 2024 Jan 04
+Last Edited on: 2024 April 30
